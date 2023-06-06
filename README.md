@@ -7,5 +7,3 @@ The model uses a **Temporal Difference (TD)** learning technique, inspired by th
 
 TD learning allows the programme to learn this way by keeping a record of the effect of all the moves made, and taking these into account once training the model at the end of the game. This allows the programme to learn over time what a good or bad gamestate might look like, rather than requiring the gamestate to be explicitly defined by an evaluation function.
 
-Here are some changes for the pull request.
-
