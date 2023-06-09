@@ -2,7 +2,6 @@ from Classes import *
 from GameClass import *
 from Powers import *
 from Exceptions import *
-from Functions import *
 from NNClass import *
 from BackupNNFiles import *
 import time
